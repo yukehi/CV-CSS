@@ -1,0 +1,57 @@
+.top{
+  background: #e0ece4;
+
+
+}
+
+.mid{
+
+
+}
+
+.bottom{
+
+}
+
+.skill{
+  width: 100px;
+  height: 100px;
+}
+
+.top-cloud{
+  position: absolute;
+  left: 600px;
+  top:50px;
+}
+
+.bottom-cloud{
+  position: absolute;
+  top: 150px;
+  left: 250px;
+}
+
+body{
+  text-align: center;
+  background: #e0ece4;
+}
+
+.Title {
+  position: relative;
+  top: 70px;
+
+}
+
+h1{
+  font-family: 'Great Vibes', cursive;
+
+}
+
+h2{
+  font-family: 'Fjalla One', sans-serif;
+
+}
+
+p{
+  font-family: 'Work Sans', sans-serif;
+
+}
